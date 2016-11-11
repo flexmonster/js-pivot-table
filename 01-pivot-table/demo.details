@@ -1,0 +1,8 @@
+---
+ name: Flexmonster Pivot Table demo
+ description: http://www.flexmonster.com
+ authors:
+   - Flexmonster
+ resources:
+ normalize_css: no
+ ...
