@@ -2,6 +2,5 @@
  name: Flexmonster Pivot Table demo
  description: http://www.flexmonster.com
  resources:
- normalize_css: no
- load_type: body
- ...
+ wrap: b
+...
