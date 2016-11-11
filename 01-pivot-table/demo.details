@@ -2,6 +2,6 @@
 name: Flexmonster Pivot Table demo
 description: http://www.flexmonster.com
 resources:
- - http://s3.amazonaws.com/flexmonster/2.3/demo.css
+ - https://s3.amazonaws.com/flexmonster/2.3/demo.css
 wrap: b
 ...
