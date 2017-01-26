@@ -1,7 +1,7 @@
 
 # What is JS Pivot Table by Flexmonster?
 
-Flexmonster Pivot Table & Charts is a component for interactive pivot reports that can be [inserted to a web page or a web application](https://www.flexmonster.com/demos/pivot-table-js/). It’s a powerful JavaScript tool to visualize your business data.
+Flexmonster Pivot Table & Charts is a component for interactive pivot reports that can be [inserted to a web page or a web application](http://www.flexmonster.com/demos/pivot-table-js/). It’s a powerful JavaScript tool to visualize your business data.
 
 Flemonter Pivot is a cross-platform web component that seamlessly work on any browser (Chrome, Firefox, Internet Explorer, Safari or Opera) across Windows, macOS, Linux, iOS or Android. 
 
