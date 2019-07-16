@@ -7,11 +7,11 @@ Flexmonster Pivot is a cross-platform web component that seamlessly works on any
 
 Moreover, you have no limitation on the server-side technology, no matter whether your website runs on .NET, Java, PHP, Ruby, etc.
 
-# Why use Flexmonster Pivot Table component?
+# Why use Flexmonster Pivot Table & Charts?
 
-## Easy to integrate
+## Easy-to-integrate
 
-Pivot Table Component can be natively used with JavaScript or [TypeScript](http://www.flexmonster.com/doc/integration-with-typescript/) and perfectly integrates with client side frameworks such as  [AngularJS](http://www.flexmonster.com/doc/integration-with-angularjs/), [Angular 2](http://www.flexmonster.com/doc/integration-with-angular-2/), [React](http://www.flexmonster.com/doc/integration-with-react/), [RequireJS](http://www.flexmonster.com/doc/integration-with-requirejs/) as good as with the server side like ASP.NET, Java JSP and others.
+Flexmonster Pivot Table & Charts can be natively used with JavaScript or [TypeScript](http://www.flexmonster.com/doc/integration-with-typescript/) and perfectly integrates with client side frameworks such as  [AngularJS](http://www.flexmonster.com/doc/integration-with-angularjs/), [Angular 2](http://www.flexmonster.com/doc/integration-with-angular-2/), [React](http://www.flexmonster.com/doc/integration-with-react/), [RequireJS](http://www.flexmonster.com/doc/integration-with-requirejs/) as good as with the server side like ASP.NET, Java JSP and others.
 
 ## Supports the most common data sources
 
@@ -34,7 +34,7 @@ Working with OLAP cubes, a browser component can communicate with the server via
 
 ## Smart features to analyze and manage your data
 
-Pivot Component provides Excel-like features which give users the interface they have always been used to. The users can easily and quickly analyze data and produce a report using different options such as:
+Flexmonster Pivot Table & Charts provides Excel-like features which give users the interface they have always been used to. The users can easily and quickly analyze data and produce a report using different options such as:
 - Filtering
 - Sorting
 - Grouping fields in rows and columns
@@ -50,7 +50,7 @@ You can find [all list of the set of tools](http://www.flexmonster.com/set-of-to
 # Customizable & flexible
 ## Extensive API
   
-Component has convenient full-functional JavaScript API to embed the component into web applications. Being a developer, you can:
+The component has convenient full-functional JavaScript API to embed the component into web applications. Being a developer, you can:
 - Define what features you want to enable/disable
 - Build your own scenarios around the component.
 
@@ -58,7 +58,7 @@ Component has convenient full-functional JavaScript API to embed the component i
 
 ## Localizing component
   
-Pivot Table & Charts component can be easily localized:
+Flexmonster Pivot Table & Charts can be easily localized:
 First of all, if you use one of the offered languages below, you can download the already prepared JSON files :
 - [English](https://github.com/flexmonster/pivot-localizations/blob/master/en.json)
 - [Español](https://github.com/flexmonster/pivot-localizations/blob/master/es.json)
@@ -102,7 +102,7 @@ You can control where to save the export data, the following methods are support
 Also you can get all support from development team on [Forum](http://www.flexmonster.com/forum/). Flexmonster developers react fast to the questions and suggestion and provide professional assistance.
 
 
-# How to get Pivot Table Component?
+# How to get Flexmonster Pivot?
 [Download free trial](http://www.flexmonster.com/download-page/) 
 
 
