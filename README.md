@@ -9,7 +9,7 @@ Moreover, you have no limitation on the server-side technology, no matter whethe
 
 # Why use Flexmonster Pivot Table & Charts?
 
-## Easy-to-integrate
+## Easy to integrate
 
 Flexmonster Pivot Table & Charts can be natively used with JavaScript or [TypeScript](http://www.flexmonster.com/doc/integration-with-typescript/) and perfectly integrates with client side frameworks such as  [AngularJS](http://www.flexmonster.com/doc/integration-with-angularjs/), [Angular 2](http://www.flexmonster.com/doc/integration-with-angular-2/), [React](http://www.flexmonster.com/doc/integration-with-react/), [RequireJS](http://www.flexmonster.com/doc/integration-with-requirejs/) as good as with the server side like ASP.NET, Java JSP and others.
 
