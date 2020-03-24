@@ -17,9 +17,11 @@ Flexmonster Pivot Table & Charts can be natively used with JavaScript or [TypeSc
 
 - [Microsoft Analysis Services OLAP cubes](http://www.flexmonster.com/doc/connecting-to-microsoft-analysis-services/)
 - [Mondrian](http://www.flexmonster.com/doc/connecting-to-pentaho-mondrian/)
+- [Elasticsearch](https://www.flexmonster.com/doc/connecting-to-elasticsearch/)
+- [Custom data source API](https://www.flexmonster.com/doc/introduction-to-custom-data-source-api/)
 - [icCube](http://www.flexmonster.com/doc/connecting-to-iccube/)
 - [JSON](http://www.flexmonster.com/doc/json-data-source/)
-- [SQL](http://www.flexmonster.com/doc/connecting-to-relational-database/) (MS SQL, MySQL and others) databases 
+- [SQL](https://www.flexmonster.com/doc/connecting-to-relational-databases-using-the-custom-data-source-api/) (MS SQL, MySQL and others) databases 
 - static [CSV](http://www.flexmonster.com/doc/csv-data-source/) files
 
 ## High speed in visualizing your data 
@@ -27,8 +29,6 @@ Flexmonster Pivot Table & Charts can be natively used with JavaScript or [TypeSc
 This solution allows you to work extremely fast with really [large data volumes](http://www.flexmonster.com/demos/) (huge OLAP cubes, data sets from SQL DBs or files up to 100 MB).
 
 Maximum data size is limited only by your end-users’ browsers and the capacity of their devices. The table renders multiple millions of cells immediately. If the user’s browser can handle it, we’ll display it.
-
-Moreover, we have developed a special application. It compresses CSV data and makes it load 5-10 times faster. [Flexmonster data compressor](http://www.flexmonster.com/blog/connecting-to-sql-databases-fast-data-loading-with-compressor-for-net-java-php/) is freely available in different technologies, as follows: .NET, Java, PHP.
 
 Working with OLAP cubes, a browser component can communicate with the server via XMLA protocol or you can use [Flexmonster Data Speed Accelerator for OLAP cubes](http://www.flexmonster.com/blog/flexmonster-data-speed-accelerator-for-olap-cubes-we-show-multidimensional-data-10-times-faster/). It’s a special server-side proxy that helps you to increase data loading speed from server to customer’s browser tenfold.
 
