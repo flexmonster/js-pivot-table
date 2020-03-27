@@ -19,7 +19,6 @@ Flexmonster Pivot Table & Charts can be natively used with JavaScript or [TypeSc
 - [Mondrian](http://www.flexmonster.com/doc/connecting-to-pentaho-mondrian/)
 - [Elasticsearch](https://www.flexmonster.com/doc/connecting-to-elasticsearch/)
 - [Custom data source API](https://www.flexmonster.com/doc/introduction-to-custom-data-source-api/)
-- [icCube](http://www.flexmonster.com/doc/connecting-to-iccube/)
 - [JSON](http://www.flexmonster.com/doc/json-data-source/)
 - [SQL](https://www.flexmonster.com/doc/connecting-to-relational-databases-using-the-custom-data-source-api/) (MS SQL, MySQL and others) databases 
 - static [CSV](http://www.flexmonster.com/doc/csv-data-source/) files
