@@ -82,15 +82,15 @@ This allows users to work with a predefined set of reports or create & save thei
 
 All table views (Pivot / Flat / Classic) and charts view can be printed or exported.
 Users can export the reports into a variety of formats:
-• Microsoft Excel 7
-• PDF
-• Web page (HTML page)
-• CSV (comma separated text format)
-• Image (PNG)   
+- Microsoft Excel 7
+- PDF
+- Web page (HTML page)
+- CSV (comma separated text format)
+- Image (PNG)   
 
 You can control where to save the export data, the following methods are supported:
-• Save to local file
-• Save to server (to remote file-storage or database)
+- Save to local file
+- Save to server (to remote file-storage or database)
 
 # Resources
 - [Demos](http://www.flexmonster.com/demos/)
