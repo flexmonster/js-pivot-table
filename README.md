@@ -1,39 +1,40 @@
+# Flexmonster Pivot Table & Charts
+[![Flexmonster Pivot Table & Charts](https://cdn.flexmonster.com/landing.png)](http://flexmonster.com)
+Website: www.flexmonster.com
 
-# What is JS Pivot Table by Flexmonster?
+## What is JS Pivot Table by Flexmonster?
 
 Flexmonster Pivot Table & Charts is a component for interactive pivot reports that can be [inserted to a web page or a web application](http://www.flexmonster.com/demos/pivot-table-js/). It’s a powerful JavaScript tool to visualize your business data.
 
-Flexmonster Pivot is a cross-platform web component that seamlessly works on any browser (Chrome, Firefox, Internet Explorer, Safari or Opera) across Windows, macOS, Linux, iOS or Android. 
-
 Moreover, you have no limitation on the server-side technology, no matter whether your website runs on .NET, Java, PHP, Ruby, etc.
 
-# Why use Flexmonster Pivot Table & Charts?
+## Why use Flexmonster Pivot Table & Charts?
 
-## Easy to integrate
+### Easy to integrate
 
-Flexmonster Pivot Table & Charts can be natively used with JavaScript or [TypeScript](http://www.flexmonster.com/doc/integration-with-typescript/) and perfectly integrates with client side frameworks such as  [AngularJS](http://www.flexmonster.com/doc/integration-with-angularjs/), [Angular 2](http://www.flexmonster.com/doc/integration-with-angular-2/), [React](http://www.flexmonster.com/doc/integration-with-react/), [RequireJS](http://www.flexmonster.com/doc/integration-with-requirejs/) as good as with the server side like ASP.NET, Java JSP and others.
+Flexmonster Pivot Table & Charts can be natively used with JavaScript or [TypeScript](http://www.flexmonster.com/doc/integration-with-typescript/) and perfectly integrates with frameworks such as [Angular](http://www.flexmonster.com/doc/integration-with-angular/), [React](http://www.flexmonster.com/doc/integration-with-react/), [Vue](http://www.flexmonster.com/doc/integration-with-vue/), and many more - see our [Integration with frameworks](https://www.flexmonster.com/doc/integration/) section.
 
-## Supports the most common data sources
+### Supports the most common data sources
 
-- [Microsoft Analysis Services OLAP cubes](http://www.flexmonster.com/doc/connecting-to-microsoft-analysis-services/)
-- [Mondrian](http://www.flexmonster.com/doc/connecting-to-pentaho-mondrian/)
-- [Elasticsearch](https://www.flexmonster.com/doc/connecting-to-elasticsearch/)
-- [Custom data source API](https://www.flexmonster.com/doc/introduction-to-custom-data-source-api/)
 - [JSON](http://www.flexmonster.com/doc/json-data-source/)
-- [SQL](https://www.flexmonster.com/doc/connect-to-relational-database/) (MS SQL, MySQL and others) databases 
-- static [CSV](http://www.flexmonster.com/doc/csv-data-source/) files
+- [CSV](http://www.flexmonster.com/doc/csv-data-source/)
+- [SQL databases](https://www.flexmonster.com/doc/connect-to-relational-database/) (MS SQL, MySQL and others)
+- [Microsoft Analysis Services OLAP cubes](http://www.flexmonster.com/doc/connecting-to-microsoft-analysis-services/)
+- [Custom data source API](https://www.flexmonster.com/doc/introduction-to-custom-data-source-api/)
+- [Elasticsearch](https://www.flexmonster.com/doc/connecting-to-elasticsearch/)
+- [Mondrian](http://www.flexmonster.com/doc/connecting-to-pentaho-mondrian/)
 
-## High speed in visualizing your data 
+### High speed in visualizing your data 
 
-This solution allows you to work extremely fast with really [large data volumes](http://www.flexmonster.com/demos/) (huge OLAP cubes, data sets from SQL DBs or files up to 100 MB).
+Our solution allows you to work extremely fast with really [large data volumes](http://www.flexmonster.com/demos/) (huge OLAP cubes, data sets from SQL databases, or files up to 100MB). Maximum data size is limited only by end-user browsers and the capacity of their devices. The table renders multiple millions of cells immediately. If the user’s browser can handle it, we’ll display it.
 
-Maximum data size is limited only by your end-users’ browsers and the capacity of their devices. The table renders multiple millions of cells immediately. If the user’s browser can handle it, we’ll display it.
+To gain even better performance while working with JSON, CSV, and datasets from SQL databases, use [Flexmonster Data Server](https://www.flexmonster.com/doc/getting-started-with-flexmonster-data-server/) - a special server developed by Flexmonster. It fetches data from a data source, processes, aggregates it, and then passes to Flexmonster Pivot in a ready-to-show format. The Data Server significantly reduces the time of data loading and allows you to analyze large datasets (CSV and JSON files more that 1 GB).
 
-Working with OLAP cubes, a browser component can communicate with the server via XMLA protocol or you can use [Flexmonster Data Speed Accelerator for OLAP cubes](http://www.flexmonster.com/blog/flexmonster-data-speed-accelerator-for-olap-cubes-we-show-multidimensional-data-10-times-faster/). It’s a special server-side proxy that helps you to increase data loading speed from server to customer’s browser tenfold.
+Working with OLAP cubes, a browser component can communicate with the server via XMLA protocol or you can use [Flexmonster Accelerator for OLAP cubes](http://www.flexmonster.com/blog/flexmonster-data-speed-accelerator-for-olap-cubes-we-show-multidimensional-data-10-times-faster/). It’s a special server-side proxy that helps you to increase data loading speed from server to customer’s browser tenfold.
 
-## Smart features to analyze and manage your data
+### Smart features to analyze and manage your data
 
-Flexmonster Pivot Table & Charts provides Excel-like features which give users the interface they have always been used to. The users can easily and quickly analyze data and produce a report using different options such as:
+Flexmonster Pivot Table & Charts provides Excel-like features that give users the interface they have always been used to. The users can easily and quickly analyze data and produce a report using different options such as:
 - Filtering
 - Sorting
 - Grouping fields in rows and columns
@@ -44,64 +45,66 @@ Flexmonster Pivot Table & Charts provides Excel-like features which give users t
 - Aggregations
 - Conditional formatting
 
-You can find [all list of the set of tools](http://www.flexmonster.com/set-of-tools/).
+Learn more about [report configuration](https://www.flexmonster.com/doc/configuring-report/).
 
-# Customizable & flexible
-## Extensive API
+## Customizable & flexible
+### Extensive API
   
 The component has convenient full-functional JavaScript API to embed the component into web applications. Being a developer, you can:
 - Define what features you want to enable/disable
-- Build your own scenarios around the component.
+- Build your own scenarios around the component
 
 [API Reference](http://www.flexmonster.com/api/)
 
-## Localizing component
+### Localizing component
   
-Flexmonster Pivot Table & Charts can be easily localized:
-First of all, if you use one of the offered languages below, you can download the already prepared JSON files :
-- [English](https://github.com/flexmonster/pivot-localizations/blob/master/en.json)
-- [Español](https://github.com/flexmonster/pivot-localizations/blob/master/es.json)
-- [Français](https://github.com/flexmonster/pivot-localizations/blob/master/fr.json)
-- [Português](https://github.com/flexmonster/pivot-localizations/blob/master/pr.json)
-- [Chinese](https://github.com/flexmonster/pivot-localizations/blob/master/ch.json)
-- [Українська](https://github.com/flexmonster/pivot-localizations/blob/master/ua.json)
+Flexmonster Pivot Table & Charts can be easily localized. You can use the prepared JSON files:
 
-[Set localization for Pivot Table](http://www.flexmonster.com/doc/localizing-component/)
+- [English (default)](https://github.com/flexmonster/pivot-localizations/blob/master/en.json)
+- [Spanish](https://github.com/flexmonster/pivot-localizations/blob/master/es.json)
+- [French](https://github.com/flexmonster/pivot-localizations/blob/master/fr.json)
+- [Chinese](https://github.com/flexmonster/pivot-localizations/blob/master/zh.json)
+- [Hungarian](https://github.com/flexmonster/pivot-localizations/blob/master/hu.json)
+- [Italian](https://github.com/flexmonster/pivot-localizations/blob/master/it.json)
+- [Portuguese](https://github.com/flexmonster/pivot-localizations/blob/master/pt.json)
+- [Ukrainian](https://github.com/flexmonster/pivot-localizations/blob/master/uk.json)
+- [German](https://github.com/flexmonster/pivot-localizations/blob/master/de.json)
+- [Dutch](https://github.com/flexmonster/pivot-localizations/blob/master/nl.json)
+- [Turkish](https://github.com/flexmonster/pivot-localizations/blob/master/tr.json)
 
-## Compose report layout
+You can also create a custom localization file. Our [guide on localization](http://www.flexmonster.com/doc/localizing-component/) gives more details about localizing Flexmonster.
+
+### Compose report layout
 Select which dimensions & values to show.
-Users can easily change a report’s layout visually and examine the data from a different perspective. The power of Pivot report composing allows you to stop guessing all possible report scenarios your end-users might require. The user will be able to tune it to their own needs on the fly.
+Users can easily change a report layout visually and examine the data from a different perspective. The power of the report composing allows you to stop guessing all possible report scenarios your end-users might require. The user will be able to tune it to their needs on the fly.
 
-## Save & load reports
-Users can create their own reports and save them to their local drive or the server and load previously saved reports with exactly the same layout, number formatting, filters, sorting and all the other settings.
+### Save & load reports
+Users can create reports, save them to their local drive or the server, and load previously saved reports with exactly the same configurations.
 
-This allows users to work with a predefined set of reports or create & save their own reports. Once the user has composed a report to reveal the precise data views that they need, they may want to save it for the future or share it with others.
+This allows users to work with a predefined set of reports or create & save their own reports. Once a user has composed a report, they may want to save it for the future or share it with others.
 
+### Export & print
 
-## Export & print
-
-All table views (Pivot / Flat / Classic) and charts view can be printed or exported.
-Users can export the reports into a variety of formats:
+All table views (Pivot / Flat / Classic) and charts view can be [printed or exported](https://www.flexmonster.com/doc/export-and-print/). Users can export the reports into a variety of formats:
 - Microsoft Excel 7
 - PDF
-- Web page (HTML page)
+- HTML page
 - CSV (comma separated text format)
 - Image (PNG)   
 
-You can control where to save the export data, the following methods are supported:
-- Save to local file
-- Save to server (to remote file-storage or database)
+You can control where to save the export data:
+- to the local computer
+- to a server (to a remote file storage or database)
 
-# Resources
+## Resources
+
 - [Demos](http://www.flexmonster.com/demos/)
 - [Documentation](http://www.flexmonster.com/doc/)
-- [Set of tools](http://www.flexmonster.com/set-of-tools/)
+- [API reference](http://www.flexmonster.com/api/)
+- [User interface](http://www.flexmonster.com/user-interface/)
 - [Blog](http://www.flexmonster.com/blog/)
 
-Also you can get all support from development team on [Forum](http://www.flexmonster.com/forum/). Flexmonster developers react fast to the questions and suggestion and provide professional assistance.
+You can also get support from our team on the [Help Forum](http://www.flexmonster.com/forum/). The Flexmonster team quickly reacts to users' questions and provides professional assistance.
 
-
-# How to get Flexmonster Pivot?
+## How to get Flexmonster Pivot?
 [Download free trial](http://www.flexmonster.com/download-page/) 
-
-
