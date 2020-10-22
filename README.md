@@ -6,7 +6,7 @@ Website: www.flexmonster.com
 
 Flexmonster Pivot Table & Charts is a component for interactive pivot reports that can be [inserted to a web page or a web application](http://www.flexmonster.com/demos/pivot-table-js/). It’s a powerful JavaScript tool to visualize your business data.
 
-Moreover, you have no limitation on server-side technology, no matter whether your website runs on .NET, Java, PHP, Ruby, etc.
+With Flexmonster, you have no limitation on server-side technology, no matter whether your website runs on .NET, Java, PHP, Ruby, etc.
 
 ## Why use Flexmonster Pivot Table & Charts?
 
