@@ -103,7 +103,7 @@ You can control where to save the export data:
 - [User interface](http://www.flexmonster.com/user-interface/)
 - [Blog](http://www.flexmonster.com/blog/)
 
-You can also get support from our team on the [Help Forum](http://www.flexmonster.com/forum/). The Flexmonster team quickly reacts to users' questions and provides professional assistance.
+You can also get support from our Tech team by raising a ticket via [Flexmonster Help Center](http://www.flexmonster.com/help-center/).
 
 ## How to get Flexmonster Pivot?
 [Download free trial](http://www.flexmonster.com/download-page/) 
