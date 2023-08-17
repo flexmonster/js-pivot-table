@@ -19,7 +19,7 @@ Flexmonster Pivot Table & Charts can be natively used with JavaScript or [TypeSc
 - [JSON](https://www.flexmonster.com/doc/json-data-source/?r=github)
 - [CSV](https://www.flexmonster.com/doc/csv-data-source/?r=github)
 - [SQL databases](https://www.flexmonster.com/doc/connect-to-relational-database/?r=github) (MS SQL, MySQL, and others)
-- [Microsoft Analysis Services OLAP cubes](http://www.flexmonster.com/doc/connecting-to-microsoft-analysis-services/?r=github)
+- [Microsoft Analysis Services OLAP cubes](https://www.flexmonster.com/doc/connecting-to-microsoft-analysis-services/?r=github)
 - [Custom data source API](https://www.flexmonster.com/doc/introduction-to-custom-data-source-api/?r=github)
 - [Elasticsearch](https://www.flexmonster.com/doc/connecting-to-elasticsearch/?r=github)
 
