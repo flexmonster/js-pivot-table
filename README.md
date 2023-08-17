@@ -12,7 +12,7 @@ With Flexmonster, you have no limitation on server-side technology, no matter wh
 
 ### Easy to integrate
 
-Flexmonster Pivot Table & Charts can be natively used with JavaScript or [TypeScript](https://www.flexmonster.com/doc/integration-with-typescript/?r=github). It perfectly integrates with [Angular](https://www.flexmonster.com/doc/integration-with-angular/?r=github), [React](https://www.flexmonster.com/doc/integration-with-react/?r=github), [Vue](https://www.flexmonster.com/doc/integration-with-vue/?r=github), and many other frameworks - see our [Integration with frameworks](https://www.flexmonster.com/doc/available-tutorials-integration/?r=github) section.
+Flexmonster Pivot Table & Charts can be natively used with JavaScript or [TypeScript](https://www.flexmonster.com/doc/integration-with-typescript/?r=github). It perfectly integrates with [Angular](https://www.flexmonster.com/doc/integration-with-angular/?r=github), [React](https://www.flexmonster.com/doc/integration-with-react/?r=github), [Vue](https://www.flexmonster.com/doc/integration-with-vue-3/?r=github), and many other frameworks - see our [Integration with frameworks](https://www.flexmonster.com/doc/available-tutorials-integration/?r=github) section.
 
 ### Supports the most common data sources
 
