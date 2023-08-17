@@ -83,7 +83,7 @@ Users can create reports, save them to their local drive or the server, and load
 
 ### Export & print
 
-All table views (Pivot / Flat / Classic) and charts view can be [exported](https://www.flexmonster.com/doc/export-report/?r=github) or [printed](https://www.flexmonster.com/doc/print-report/?r=github). Users can export the reports into a variety of formats:
+All table views (compact/classic/flat) and charts can be [exported](https://www.flexmonster.com/doc/export-report/?r=github) or [printed](https://www.flexmonster.com/doc/print-report/?r=github). Users can export the reports into a variety of formats:
 - Microsoft Excel 7
 - PDF
 - HTML page
