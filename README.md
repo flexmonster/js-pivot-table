@@ -104,7 +104,7 @@ You can control where to save the export data:
 - [User interface](https://www.flexmonster.com/user-interface/?r=github)
 - [Blog](https://www.flexmonster.com/blog/?r=github)
 
-You can also get support from our Tech team by raising a ticket via the [Flexmonster Help Center](https://www.flexmonster.com/help-center/?r=github).
+You can also get support from our Tech team by raising a ticket via [Flexmonster Help Center](https://www.flexmonster.com/help-center/?r=github).
 
 ## How to get Flexmonster Pivot?
 [Download a free trial](https://www.flexmonster.com/download-page/?r=github)
