@@ -29,7 +29,7 @@ Our solution allows you to work extremely fast with really large data volumes (h
 
 To gain even better performance while working with JSON, CSV, and datasets from SQL databases, use [Flexmonster Data Server](https://www.flexmonster.com/doc/intro-to-flexmonster-data-server/?r=github) — an installable server developed by Flexmonster. It fetches data from a data source, processes it, aggregates it, and then passes the data to Flexmonster Pivot in a ready-to-show format. The Data Server significantly reduces data loading time and allows you to analyze large datasets (CSV and JSON files larger than 1 GB).
 
-Working with OLAP cubes, the component can communicate with the server via XMLA protocol, or you can use [Flexmonster Accelerator for OLAP cubes](flexmonster-accelerator-introduction/?r=github). It’s a special server-side proxy that helps you increase data loading speed from the server to the user’s browser tenfold.
+Working with OLAP cubes, the component can communicate with the server via XMLA protocol, or you can use [Flexmonster Accelerator for OLAP cubes](https://www.flexmonster.com/doc/flexmonster-accelerator-introduction/?r=github). It’s a special server-side proxy that helps you increase data loading speed from the server to the user’s browser tenfold.
 
 ### Smart features to analyze and manage your data
 
