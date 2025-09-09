@@ -108,3 +108,11 @@ You can also get support from our Tech team by raising a ticket via [Flexmonster
 
 ## How to get Flexmonster Pivot?
 [Download a free trial](https://www.flexmonster.com/download-page/?r=github)
+
+## License
+
+Flexmonster Pivot Table & Charts is distributed under the terms and conditions of the Flexmonster Software License Agreement: [https://www.flexmonster.com/software-license-agreement/](https://www.flexmonster.com/software-license-agreement/?r=github).
+
+Flexmonster offers a 30-day free trial so you can evaluate our product. Pricing for commercial license models can be found on the [Flexmonster pricing page](https://www.flexmonster.com/pivot-table-editions-and-pricing?/r=github).
+
+If you need any help with your license, fill out our [Contact form](https://www.flexmonster.com/contact-our-team/?r=github), and we will get in touch with you.
